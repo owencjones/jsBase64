@@ -77,8 +77,8 @@ For a simple Base64-ASCII decode, the padding of equals signs is not at all need
 
 ### Possible Todos
 
-[ ] Replace Mocha and Chai with home spun testing library, to make this completely zero-dependency
-[ ] Support UTF-8 (Unlikely to bother, but who knows)
+[] Replace Mocha and Chai with home spun testing library, to make this completely zero-dependency
+[] Support UTF-8 (Unlikely to bother, but who knows)
 
 ### Licence
 
