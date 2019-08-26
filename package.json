@@ -1,0 +1,16 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "description": "Implmentation of Base64 encoding and decoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Owen C. Jones",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
